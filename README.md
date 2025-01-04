@@ -59,5 +59,5 @@
 2. list Report
 3. Json Report
 
-![html report]([https://github.com/user-attachments/assets/9f90c484-19a0-4762-957e-a49f271581d4](https://github.com/EyadElbadawy/images/blob/main/Screenshot%202025-01-04%20133750.png))
+![html report](https://i.imgur.com/aYktErq.png)
 
