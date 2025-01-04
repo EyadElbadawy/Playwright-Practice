@@ -35,7 +35,7 @@ export default defineConfig({
     {
       name: 'chromium',
       use: {
-        headless: false,
+        headless: true,
         viewport: null,
       },
     },
