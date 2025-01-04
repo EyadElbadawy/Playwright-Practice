@@ -9,9 +9,7 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.49.1",
-    "@types/node": "^22.10.3"
-  },
-  "dependencies": {
+    "@types/node": "^22.10.3",
     "allure-playwright": "^3.0.7"
   }
 }

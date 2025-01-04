@@ -33,7 +33,7 @@ export default defineConfig({
 
   projects: [
     {
-      name: 'Run on chrome Browser',
+      name: 'chromium',
       use: {
         headless: false,
         viewport: null,
