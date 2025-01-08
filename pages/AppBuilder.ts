@@ -2,8 +2,8 @@ import { Page, expect } from '@playwright/test';
 
 class AppBuilder {
     static APP_BUILDER = '.absolute.w-full.h-full.z-10';
-    static CONTINUE_BUTTON = '.modal-footer > .primary';
-    static DASHBOARD_BUTTON = '.modal-footer > .secondary';
+    static CONTINUE_BUTTON = '.footer-wrapper > .primary';
+    static DASHBOARD_BUTTON = '.footer-wrapper > .secondary';
     static CUSTOMERS_TAB = ':nth-child(4) > .treeview-container > .header-contacts';
     static CUSTOMERS_BUTTON = 'a[href="#/users"]';
     static FIRST_CUSTOMER_EMAIL = 'tbody > :nth-child(1) > :nth-child(5)';
